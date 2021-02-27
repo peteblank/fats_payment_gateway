@@ -9,7 +9,7 @@
     "3": "node 3_query_node/query.js",
     "4": "node 4_transactions/transfer.js",
     "5": "node 5_contracts/main.js",
-    "7": "node 7_snip20_token/main.js",
+    "7": "node main.js",
     "8": "node 8_websocket/main.js",
     "4:advanced": "node 4_transactions/send.js"
   },
