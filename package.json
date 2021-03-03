@@ -4,8 +4,8 @@
   "description": "SecretJS templates for Secret Network",
   "main": "index.js",
   "scripts": {
-    "1": "node 1_connecting_to_node/connect.js",
-    "2": "node 2_creating_account/create_account.js",
+    "1": "node main.js",
+    "2": "node main2.js",
     "3": "node 3_query_node/query.js",
     "4": "node 4_transactions/transfer.js",
     "5": "node 5_contracts/main.js",
