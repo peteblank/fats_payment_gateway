@@ -1,4 +1,4 @@
-# fatsdonationbutton
+# fats_payment_gateway
 
 change the env file, go to datahub and get your api key then type</br>
 npm install</br>
